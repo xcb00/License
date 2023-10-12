@@ -23,6 +23,6 @@ with reserved font name "Neo둥근모 Pro" and "NeoDunggeunmo Pro".
 - [SmallBurg](https://almostapixel.itch.io/)
 - [AxulArt´s Basic Top-down interior](https://axulart.itch.io/)
 - Serene Village - revamped - RPG Tileset
-> - https://limezu.itch.io/serenevillagerevamped
-> - https://pixeljad.itch.io/villagetopdown
-> - https://cypor.itch.io/12x12-rpg-tileset
+  > - https://limezu.itch.io/serenevillagerevamped
+  > - https://pixeljad.itch.io/villagetopdown
+  > - https://cypor.itch.io/12x12-rpg-tileset
